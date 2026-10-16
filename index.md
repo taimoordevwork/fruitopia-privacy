@@ -1,11 +1,12 @@
 ---
-title: Fruitopia — Privacy Policy
+title: Mango Max Learning Island — Privacy Policy
 ---
 
-# Fruitopia — Privacy Policy
+# Mango Max Learning Island — Privacy Policy
+
 _Last updated: 15 October 2026_
 
-Fruitopia is a learning game for children aged 2–5. We built it so that it
+Mango Max Learning Island is a learning game for children aged 2–5. We built it so that it
 **does not collect personal information from anyone**.
 
 ## What we do NOT do
@@ -44,7 +45,7 @@ that young children cannot solve.
 
 ## Compliance
 
-We designed Fruitopia to follow the Google Play Families Policy, the U.S.
+We designed Mango Max Learning Island to follow the Google Play Families Policy, the U.S.
 Children's Online Privacy Protection Act (COPPA) and the EU GDPR rules for
 children (GDPR-K).
 
